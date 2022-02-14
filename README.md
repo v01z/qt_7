@@ -1,1 +1,1 @@
-# qt_7
+# qt_lesson_7
